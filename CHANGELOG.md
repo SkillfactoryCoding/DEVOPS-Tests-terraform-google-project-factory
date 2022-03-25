@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Extending the adopted spec, each change should have a link to its corresponding pull request appended.
 
+### [12.0.1](https://github.com/terraform-google-modules/terraform-google-project-factory/compare/v12.0.0...v12.0.1) (2022-03-25)
+
+
+### Bug Fixes
+
+* VPC-SC SA destroy sequence with default SA ([#691](https://github.com/terraform-google-modules/terraform-google-project-factory/issues/691)) ([0e5420b](https://github.com/terraform-google-modules/terraform-google-project-factory/commit/0e5420b5b45288e4af8a8bc9a8490c91240ada13))
+
 ## [12.0.0](https://github.com/terraform-google-modules/terraform-google-project-factory/compare/v11.3.1...v12.0.0) (2022-03-02)
 
 
